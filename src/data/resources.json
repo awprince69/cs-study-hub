@@ -1,0 +1,122 @@
+{
+  "books": [
+    {
+      "id": "book-os",
+      "title": "Operating Systems: Three Easy Pieces",
+      "author": "Remzi & Andrea",
+      "tags": ["Systems", "Free"],
+      "desc": "A practical, modular approach to OS concepts.",
+      "link": "https://pages.cs.wisc.edu/~remzi/OSTEP/"
+    },
+    {
+      "id": "book-python",
+      "title": "Automate the Boring Stuff with Python",
+      "author": "Al Sweigart",
+      "tags": ["Python", "Beginner", "Free"],
+      "desc": "Hands-on Python for automation tasks.",
+      "link": "https://automatetheboringstuff.com/"
+    }
+  ],
+  "courses": [
+    {
+      "id": "cs50",
+      "title": "CS50: Introduction to Computer Science",
+      "platform": "edX / Harvard",
+      "duration": "12 weeks",
+      "difficulty": "Beginner",
+      "price": "Free(audit)",
+      "link": "https://cs50.harvard.edu/x/"
+    },
+    {
+      "id": "ml",
+      "title": "Machine Learning",
+      "platform": "Coursera (Andrew Ng)",
+      "duration": "11 weeks",
+      "difficulty": "Intermediate",
+      "price": "Paid",
+      "link": "https://www.coursera.org/learn/machine-learning"
+    }
+  ],
+  "youtube": [
+    {
+      "id": "yt-cs50",
+      "title": "CS50 2022 - Full Course",
+      "channel": "Harvard",
+      "link": "https://www.youtube.com/watch?v=8mAITcNt710"
+    },
+    {
+      "id": "yt-python",
+      "title": "Python Course - freeCodeCamp",
+      "channel": "freeCodeCamp",
+      "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+    }
+  ],
+  "platforms": [
+    {
+      "id": "p-freecodecamp",
+      "name": "freeCodeCamp",
+      "type": "Learning",
+      "free": true,
+      "link": "https://www.freecodecamp.org/"
+    },
+    {
+      "id": "p-leetcode",
+      "name": "LeetCode",
+      "type": "Practice",
+      "free": true,
+      "link": "https://leetcode.com/"
+    }
+  ],
+  "tools": [
+    {
+      "id": "t-vscode",
+      "name": "Visual Studio Code",
+      "desc": "Popular editor with many extensions.",
+      "link": "https://code.visualstudio.com/"
+    },
+    {
+      "id": "t-git",
+      "name": "Git & GitHub",
+      "desc": "Version control and collaboration platform.",
+      "link": "https://github.com/"
+    }
+  ],
+  "aiPlatforms": [
+    {
+      "id": "ai-chatgpt",
+      "name": "ChatGPT (OpenAI)",
+      "desc": "General-purpose assistant for coding & research.",
+      "free": true,
+      "link": "https://chat.openai.com/"
+    },
+    {
+      "id": "ai-copilot",
+      "name": "GitHub Copilot",
+      "desc": "AI code completion and suggestions.",
+      "free": false,
+      "link": "https://github.com/features/copilot"
+    }
+  ],
+  "career": [
+    {
+      "id": "career-frontend",
+      "role": "Frontend Engineer",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "projects": ["Personal Portfolio", "SPA with REST API"]
+    },
+    {
+      "id": "career-ml",
+      "role": "ML Engineer",
+      "skills": ["Python", "PyTorch", "Data Pipelines"],
+      "projects": ["Image Classifier", "NLP Pipeline"]
+    }
+  ],
+  "updates": [
+    {
+      "id": "u1",
+      "title": "AI Tool X Released",
+      "date": "2025-09-01",
+      "link": "https://example.com"
+    }
+  ]
+}

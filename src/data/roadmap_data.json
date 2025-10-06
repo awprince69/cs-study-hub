@@ -1,0 +1,52 @@
+{
+  "roadmaps": [
+    {
+      "id": "r1",
+      "title": "Beginning of Programming",
+      "tag": "🔥 Trending",
+      "description": "Start from zero: learn Python, problem-solving, and basic data structures. Perfect for first-year students.",
+      "steps": [
+        "Intro Programming (Python)",
+        "Problem Solving Basics",
+        "Data Structures & Algorithms"
+      ],
+      "thumbnail": "/bp.jpg"
+    },
+    {
+      "id": "r2",
+      "title": "Web Development",
+      "tag": "⭐ Popular",
+      "description": "Learn HTML, CSS, JavaScript, React, and backend basics. Build real projects and prepare for full-stack roles.",
+      "steps": [
+        "HTML & CSS",
+        "JavaScript Fundamentals",
+        "React + Node.js Basics"
+      ],
+      "thumbnail": "/web.jpg"
+    },
+    {
+      "id": "r3",
+      "title": "AI & Machine Learning",
+      "tag": "🚀 Hot Trend",
+      "description": "Dive into Python, Numpy, and deep learning frameworks. Explore AI projects and real-world applications.",
+      "steps": [
+        "Python + Numpy",
+        "Machine Learning Concepts",
+        "Deep Learning Frameworks"
+      ],
+      "thumbnail": "/ai.jpg"
+    },
+    {
+      "id": "r4",
+      "title": "DevOps",
+      "tag": "💡 In-Demand",
+      "description": "Learn OS, networking, Git, Docker, and cloud basics — essential for scaling systems and backend engineering.",
+      "steps": [
+        "Operating Systems",
+        "Networking Fundamentals",
+        "Docker + Cloud Deployment"
+      ],
+      "thumbnail": "/devops2.jpg"
+    }
+  ]
+}

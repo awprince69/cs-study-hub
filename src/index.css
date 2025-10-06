@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #a8794a; /* Cape Palliser 500 */
+  --accent: #b78c58; /* Cape Palliser 400 */
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+@theme {
+  /* Cape Palliser palette */
+  --color-cape-palliser-50: #f8f4ee;
+  --color-cape-palliser-100: #ede5d4;
+  --color-cape-palliser-200: #dccaac;
+  --color-cape-palliser-300: #c8a97c;
+  --color-cape-palliser-400: #b78c58;
+  --color-cape-palliser-500: #a8794a;
+  --color-cape-palliser-600: #996742;
+  --color-cape-palliser-700: #744a34;
+  --color-cape-palliser-800: #623f31;
+  --color-cape-palliser-900: #55362e;
+  --color-cape-palliser-950: #301c18;
+
+  /* Brand colors */
+  --color-primary: #074b92;
+  --color-accent: #ffb800;
+
+  /* Background / text neutrals */
+  --color-cardLight: #f8f4ee; /* Cape Palliser 50: light card background */
+  --color-cardDark: #623f31; /* Cape Palliser 800: dark card background */
+  --color-heroLight: #ede5d4; /* Cape Palliser 100: hero section background */
+
+  --color-neutralText: #55362e;
+
+  --color-border: #dccaac; /* Cape Palliser 200: subtle border / divider */
+  --color-hover: #a8794a; /* Cape Palliser 500: hover on buttons/links */
+  --color-mutedText: #996742; /* Cape Palliser 600: secondary text */
+
+  --color-navbar-bg: #744a34; /* Cape Palliser 700: strong, professional, easy on eyes */
+  --color-navbar-text: #f8f4ee; /* Cape Palliser 50: light text for contrast */
+
+  --color-wave: #dccaac; /* Wave between hero and next section */
+  --color-wave-gradient-start: #ede5d4; /* Gradient start */
+  --color-wave-gradient-end: #dccaac; /* Gradient end */
+  /* Shadows */
+  --shadow-soft: 0 6px 18px rgba(7, 75, 146, 0.08);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.wave {
+  animation: wave 80s linear infinite;
+  background: url("/mask-02.png") repeat-x;
+  background-position: 0 bottom;
+  background-size: auto 100%;
+  bottom: -5px;
+  height: 11.25vw;
+  min-height: 60px;
+  left: -5px;
+  position: absolute;
+  right: -5px;
+  transition: animation 0.3s ease;
+  z-index: 1;
+}
+
+@keyframes wave {
+  0% {
+    background-position-x: 0;
+  }
+  100% {
+    background-position-x: -200%;
+  }
+}
+
+.card {
+  @apply rounded-2xl shadow-soft p-5 bg-cardLight relative flex flex-col transition-transform hover:-translate-y-1 hover:shadow-md;
+}
+
+.video-scroll {
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+.video-card {
+  scroll-snap-align: start;
+  min-width: 320px;
+  position: relative;
+}
+.video-card iframe,
+.video-card a {
+  width: 100%;
+  height: 180px;
+}
