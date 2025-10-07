@@ -80,7 +80,7 @@ export default function ResourceSection({ id, title, items = [], render }) {
         {items.map((item) => (
           <article
             key={item.id || item.name || item.title}
-            className="card min-w-[260px] sm:min-w-[300px] md:min-w-[320px] flex-shrink-0"
+            className="card w-96 flex-shrink-0 "
           >
             {render ? (
               render(item)

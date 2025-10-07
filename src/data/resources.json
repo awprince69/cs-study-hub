@@ -15,8 +15,249 @@
       "tags": ["Python", "Beginner", "Free"],
       "desc": "Hands-on Python for automation tasks.",
       "link": "https://automatetheboringstuff.com/"
+    },
+    {
+      "id": "1",
+      "title": "The C Programming Language",
+      "author": "Brian W. Kernighan, Dennis M. Ritchie",
+      "tags": ["programming", "C", "fundamentals"],
+      "desc": "The classic and authoritative guide to C programming, written by its creators. Essential for mastering the language.",
+      "link": "https://amzn.to/3HBG6bl"
+    },
+    {
+      "id": "2",
+      "title": "Head First C",
+      "author": "David Griffiths, Dawn Griffiths",
+      "tags": ["programming", "C", "beginner"],
+      "desc": "A hands-on, visual approach to learning C programming for beginners and intermediates.",
+      "link": "https://amzn.to/3ybc8zA"
+    },
+    {
+      "id": "3",
+      "title": "Think Python: How to Think Like a Computer Scientist",
+      "author": "Allen Downey",
+      "tags": ["programming", "python", "beginner"],
+      "desc": "An approachable introduction to programming and problem-solving using Python.",
+      "link": "https://greenteapress.com/wp/think-python-2e/"
+    },
+    {
+      "id": "4",
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "tags": ["programming", "python", "beginner"],
+      "desc": "A fast-paced introduction to Python programming with practical examples and projects.",
+      "link": "https://amzn.to/3y4e6PZ"
+    },
+    {
+      "id": "5",
+      "title": "Fluent Python",
+      "author": "Luciano Ramalho",
+      "tags": ["programming", "python", "advanced"],
+      "desc": "Deep dive into Python’s core features and idiomatic design. Ideal for writing clean and efficient Python code.",
+      "link": "https://amzn.to/4fTt1YF"
+    },
+    {
+      "id": "6",
+      "title": "Introduction to Algorithms (CLRS)",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "tags": ["algorithms", "data-structures", "advanced"],
+      "desc": "The gold standard textbook on algorithms. Detailed and mathematically rigorous.",
+      "link": "https://amzn.to/3wP7rG4"
+    },
+    {
+      "id": "7",
+      "title": "The Algorithm Design Manual",
+      "author": "Steven S. Skiena",
+      "tags": ["algorithms", "data-structures", "interview"],
+      "desc": "Balances algorithm theory and practice with real-world case studies.",
+      "link": "https://amzn.to/4bHWBuU"
+    },
+    {
+      "id": "8",
+      "title": "Grokking Algorithms",
+      "author": "Aditya Bhargava",
+      "tags": ["algorithms", "beginner", "visual"],
+      "desc": "A friendly, illustrated introduction to data structures and algorithms.",
+      "link": "https://amzn.to/3xSOtiY"
+    },
+    {
+      "id": "9",
+      "title": "Algorithms",
+      "author": "Robert Sedgewick, Kevin Wayne",
+      "tags": ["algorithms", "data-structures"],
+      "desc": "An accessible and practical introduction to algorithms with visual explanations and Java examples.",
+      "link": "https://amzn.to/3y2R1eG"
+    },
+    {
+      "id": "10",
+      "title": "Data Structures and Algorithm Analysis in C",
+      "author": "Mark Allen Weiss",
+      "tags": ["data-structures", "C"],
+      "desc": "A classic introduction to implementing and analyzing algorithms and data structures in C.",
+      "link": "https://amzn.to/3y7qkzJ"
+    },
+    {
+      "id": "11",
+      "title": "Operating System Concepts",
+      "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+      "tags": ["operating-system"],
+      "desc": "Known as the 'Dinosaur Book', this is the most widely used OS textbook covering processes, threads, memory, and file systems.",
+      "link": "https://amzn.to/3y3L5lS"
+    },
+    {
+      "id": "12",
+      "title": "Operating Systems: Three Easy Pieces (OSTEP)",
+      "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+      "tags": ["operating-system", "systems"],
+      "desc": "A clear and modern introduction to OS concepts, available free online.",
+      "link": "https://pages.cs.wisc.edu/~remzi/OSTEP/"
+    },
+    {
+      "id": "13",
+      "title": "Modern Operating Systems",
+      "author": "Andrew S. Tanenbaum, Herbert Bos",
+      "tags": ["operating-system", "advanced"],
+      "desc": "Explains the principles and design of operating systems in depth with modern case studies.",
+      "link": "https://amzn.to/3xSP9Ns"
+    },
+    {
+      "id": "14",
+      "title": "Computer Organization and Design",
+      "author": "David A. Patterson, John L. Hennessy",
+      "tags": ["computer-architecture", "hardware"],
+      "desc": "The standard textbook for understanding how computer hardware and software interact.",
+      "link": "https://amzn.to/3YuaNQH"
+    },
+    {
+      "id": "15",
+      "title": "Computer Architecture: A Quantitative Approach",
+      "author": "John L. Hennessy, David A. Patterson",
+      "tags": ["computer-architecture", "advanced"],
+      "desc": "A deep and performance-focused textbook on computer architecture, used in top universities worldwide.",
+      "link": "https://amzn.to/3y6gRkA"
+    },
+    {
+      "id": "16",
+      "title": "Digital Design and Computer Architecture",
+      "author": "David Harris, Sarah Harris",
+      "tags": ["computer-architecture", "hardware"],
+      "desc": "Builds from logic gates to complete CPUs with hands-on exercises.",
+      "link": "https://amzn.to/4hV6wrE"
+    },
+    {
+      "id": "17",
+      "title": "Computer Networking: A Top-Down Approach",
+      "author": "James F. Kurose, Keith W. Ross",
+      "tags": ["networking", "internet", "protocols"],
+      "desc": "A practical introduction to computer networking, starting from applications down to the physical layer.",
+      "link": "https://amzn.to/4fYO2D3"
+    },
+    {
+      "id": "18",
+      "title": "Data Communications and Networking",
+      "author": "Behrouz A. Forouzan",
+      "tags": ["networking", "beginner"],
+      "desc": "An accessible, visually rich textbook for beginners learning network protocols and architectures.",
+      "link": "https://amzn.to/3y4bUGV"
+    },
+    {
+      "id": "19",
+      "title": "Discrete Mathematics and Its Applications",
+      "author": "Kenneth H. Rosen",
+      "tags": ["mathematics", "discrete-math"],
+      "desc": "The go-to textbook for discrete math, logic, and proofs essential to computer science.",
+      "link": "https://amzn.to/4fTj2Wc"
+    },
+    {
+      "id": "20",
+      "title": "Mathematics for Computer Science (MIT)",
+      "author": "Eric Lehman, F. Thomson Leighton, Albert R. Meyer",
+      "tags": ["mathematics", "discrete-math"],
+      "desc": "MIT's official discrete mathematics textbook for computer science, available free online.",
+      "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/"
+    },
+    {
+      "id": "21",
+      "title": "Linear Algebra and Its Applications",
+      "author": "Gilbert Strang",
+      "tags": ["mathematics", "linear-algebra"],
+      "desc": "A fundamental textbook for understanding linear algebra concepts used in computer graphics, ML, and data science.",
+      "link": "https://amzn.to/4fYUcWJ"
+    },
+    {
+      "id": "22",
+      "title": "Calculus",
+      "author": "James Stewart",
+      "tags": ["mathematics", "calculus"],
+      "desc": "A comprehensive guide to calculus covering differential, integral, and multivariable calculus with examples.",
+      "link": "https://amzn.to/3y9MX7R"
+    },
+    {
+      "id": "23",
+      "title": "Introduction to the Theory of Computation",
+      "author": "Michael Sipser",
+      "tags": ["theory", "automata", "complexity"],
+      "desc": "A clear, rigorous, and elegant introduction to automata theory, computability, and complexity.",
+      "link": "https://amzn.to/3yqZ1Pi"
+    },
+    {
+      "id": "24",
+      "title": "Computers and Intractability: A Guide to the Theory of NP-Completeness",
+      "author": "Michael R. Garey, David S. Johnson",
+      "tags": ["theory", "complexity", "np-complete"],
+      "desc": "The definitive reference for understanding NP-completeness and computational hardness.",
+      "link": "https://amzn.to/3WLY6dT"
+    },
+    {
+      "id": "25",
+      "title": "Structure and Interpretation of Computer Programs (SICP)",
+      "author": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
+      "tags": ["programming", "computation-theory"],
+      "desc": "A foundational text that teaches how to think like a computer scientist using Scheme and abstraction.",
+      "link": "https://amzn.to/3y5kF7y"
+    },
+    {
+      "id": "26",
+      "title": "The Art of Computer Programming",
+      "author": "Donald E. Knuth",
+      "tags": ["algorithms", "programming", "mathematics"],
+      "desc": "An advanced multi-volume encyclopedia on algorithms, programming, and mathematical analysis by the father of algorithmic analysis.",
+      "link": "https://amzn.to/3y6Ew8r"
+    },
+    {
+      "id": "27",
+      "title": "Artificial Intelligence: A Modern Approach",
+      "author": "Stuart Russell, Peter Norvig",
+      "tags": ["ai", "machine-learning", "theory"],
+      "desc": "Comprehensive textbook covering all aspects of modern AI.",
+      "link": "https://amzn.to/3wiU2uX"
+    },
+    {
+      "id": "28",
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+      "tags": ["ai", "deep-learning", "ml"],
+      "desc": "The definitive textbook on deep learning theory and practice.",
+      "link": "https://www.deeplearningbook.org/"
+    },
+    {
+      "id": "29",
+      "title": "Reinforcement Learning: An Introduction",
+      "author": "Richard S. Sutton, Andrew G. Barto",
+      "tags": ["ai", "reinforcement-learning"],
+      "desc": "The foundational textbook for reinforcement learning concepts and algorithms.",
+      "link": "https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf"
+    },
+    {
+      "id": "30",
+      "title": "Code: The Hidden Language of Computer Hardware and Software",
+      "author": "Charles Petzold",
+      "tags": ["computer-architecture", "foundations", "history"],
+      "desc": "Explains how computers work from electrical circuits to high-level programming, in simple narrative form.",
+      "link": "https://amzn.to/3xU8zQs"
     }
   ],
+
   "courses": [
     {
       "id": "cs50",
@@ -37,6 +278,7 @@
       "link": "https://www.coursera.org/learn/machine-learning"
     }
   ],
+
   "youtube": [
     {
       "id": "yt-cs50",

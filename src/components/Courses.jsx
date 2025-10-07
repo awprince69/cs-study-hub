@@ -79,7 +79,7 @@ export default function Courses({
         {filtered.map((c) => (
           <article
             key={c.id}
-            className="min-w-[280px] sm:min-w-[320px] flex-shrink-0 rounded-2xl shadow-soft bg-cardLight p-5 flex flex-col justify-between transition-transform duration-300 hover:scale-[1.03]"
+            className="w-96 flex-shrink-0 rounded-2xl shadow-soft bg-cardLight p-5 flex flex-col justify-between transition-transform duration-300 hover:scale-[1.03]"
           >
             {/* Top content */}
             <div>

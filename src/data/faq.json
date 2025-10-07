@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How to start programming?",
+    "answer": "Start with Python and a small project (automation or simple web app)."
+  },
+  {
+    "question": "What should I study first?",
+    "answer": "Fundamentals: data structures and algorithms plus a programming language."
+  },
+  {
+    "question": "How can I improve problem-solving skills?",
+    "answer": "Practice on coding platforms like LeetCode, HackerRank, or Codeforces regularly."
+  },
+  {
+    "question": "Is learning algorithms necessary for web development?",
+    "answer": "Yes, they help optimize performance and write efficient code."
+  }
+]

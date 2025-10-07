@@ -13,6 +13,7 @@ import Updates from "./components/Updates";
 import Contribute from "./components/Contribute";
 
 import resources from "./data/resources.json";
+import Faq from "./components/faq";
 
 export default function App() {
   const [query, setQuery] = useState("");
@@ -137,39 +138,17 @@ export default function App() {
         <section id="career" className="mt-12">
           <Career items={resources.career} />
         </section>
-        {/* FAQ section */}
-        <div className="mt-8 card bg-cape-palliser-100 mx-auto flex max-w-3xl ">
-          <h1 className="font-semibold mb-1 text-cape-palliser-900 text-center text-3xl">
-            FAQ
-          </h1>
-          <details className="mb-2">
-            <summary className="cursor-pointer text-cape-palliser-900 ">
-              How to start programming?
-            </summary>
-            <p className="mt-2 text-sm text-cape-palliser-700 ">
-              Start with Python and a small project (automation or simple web
-              app).
-            </p>
-          </details>
-
-          <details>
-            <summary className="cursor-pointer text-cape-palliser-900 ">
-              What should I study first?
-            </summary>
-            <p className="mt-2 text-sm text-cape-palliser-700 ">
-              Fundamentals: data structures and algorithms plus a programming
-              language.
-            </p>
-          </details>
-        </div>
+        <section>
+          <Faq />
+        </section>
 
         <section id="community" className="mt-12">
           <Community />
         </section>
 
-        <section id="updates" className="mt-12">
+        {/* <section id="updates" className="mt-12">
           <Updates items={resources.updates} />
-        </section>
+        </section> */}
 
         {/* <section id="contribute" className="mt-12 mb-12">
           <Contribute />
