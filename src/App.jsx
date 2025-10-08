@@ -11,7 +11,6 @@ import Career from "./components/Career";
 import Community from "./components/Community";
 import Updates from "./components/Updates";
 import Contribute from "./components/Contribute";
-
 import resources from "./data/resources.json";
 import Faq from "./components/faq";
 
