@@ -88,7 +88,7 @@ export default function Courses({
                   <h3 className="font-semibold text-lg text-neutralText leading-snug line-clamp-2 break-words">
                     {c.title}
                   </h3>
-                  <div className="text-xs text-mutedText mt-1 truncate">
+                  <div className="text-xs text-mutedText mt-1 ">
                     {c.platform} • {c.duration} • {c.difficulty}
                   </div>
                 </div>
@@ -108,7 +108,7 @@ export default function Courses({
               >
                 Open Course →
               </a>
-              <button
+              {/* <button
                 onClick={() => onToggleBookmark && onToggleBookmark(c.id)}
                 className={`px-3 py-1 rounded-md border text-sm font-medium transition-all ${
                   bookmarks.includes(c.id)
@@ -117,7 +117,7 @@ export default function Courses({
                 }`}
               >
                 {bookmarks.includes(c.id) ? "Saved" : "Save"}
-              </button>
+              </button> */}
             </div>
           </article>
         ))}

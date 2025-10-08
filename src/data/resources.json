@@ -22,7 +22,7 @@
       "author": "Brian W. Kernighan, Dennis M. Ritchie",
       "tags": ["programming", "C", "fundamentals"],
       "desc": "The classic and authoritative guide to C programming, written by its creators. Essential for mastering the language.",
-      "link": "https://amzn.to/3HBG6bl"
+      "link": "https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf"
     },
     {
       "id": "2",
@@ -30,7 +30,7 @@
       "author": "David Griffiths, Dawn Griffiths",
       "tags": ["programming", "C", "beginner"],
       "desc": "A hands-on, visual approach to learning C programming for beginners and intermediates.",
-      "link": "https://amzn.to/3ybc8zA"
+      "link": "https://nibmehub.com/opac-service/pdf/read/Head%20First%20C%20by%20David%20Griffiths-%20Dawn%20Griffiths.pdf"
     },
     {
       "id": "3",
@@ -38,7 +38,7 @@
       "author": "Allen Downey",
       "tags": ["programming", "python", "beginner"],
       "desc": "An approachable introduction to programming and problem-solving using Python.",
-      "link": "https://greenteapress.com/wp/think-python-2e/"
+      "link": "https://greenteapress.com/thinkpython2/thinkpython2.pdf"
     },
     {
       "id": "4",
@@ -46,7 +46,7 @@
       "author": "Eric Matthes",
       "tags": ["programming", "python", "beginner"],
       "desc": "A fast-paced introduction to Python programming with practical examples and projects.",
-      "link": "https://amzn.to/3y4e6PZ"
+      "link": "https://khwarizmi.org/wp-content/uploads/2021/04/Eric_Matthes_Python_Crash_Course_A_Hands.pdf"
     },
     {
       "id": "5",
@@ -54,7 +54,7 @@
       "author": "Luciano Ramalho",
       "tags": ["programming", "python", "advanced"],
       "desc": "Deep dive into Python’s core features and idiomatic design. Ideal for writing clean and efficient Python code.",
-      "link": "https://amzn.to/4fTt1YF"
+      "link": "https://elmoukrie.com/wp-content/uploads/2022/05/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf"
     },
     {
       "id": "6",
@@ -62,7 +62,7 @@
       "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
       "tags": ["algorithms", "data-structures", "advanced"],
       "desc": "The gold standard textbook on algorithms. Detailed and mathematically rigorous.",
-      "link": "https://amzn.to/3wP7rG4"
+      "link": "https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf"
     },
     {
       "id": "7",
@@ -70,7 +70,7 @@
       "author": "Steven S. Skiena",
       "tags": ["algorithms", "data-structures", "interview"],
       "desc": "Balances algorithm theory and practice with real-world case studies.",
-      "link": "https://amzn.to/4bHWBuU"
+      "link": "https://mrce.in/ebooks/Algorithm%20Design%20Manual%203rd%20Ed.pdf"
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "author": "Aditya Bhargava",
       "tags": ["algorithms", "beginner", "visual"],
       "desc": "A friendly, illustrated introduction to data structures and algorithms.",
-      "link": "https://amzn.to/3xSOtiY"
+      "link": "http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20D/CSE%20%20IT%20AIDS%20ML/Grokking%20Algorithms.pdf"
     },
     {
       "id": "9",
@@ -86,7 +86,7 @@
       "author": "Robert Sedgewick, Kevin Wayne",
       "tags": ["algorithms", "data-structures"],
       "desc": "An accessible and practical introduction to algorithms with visual explanations and Java examples.",
-      "link": "https://amzn.to/3y2R1eG"
+      "link": "https://mrce.in/ebooks/Algorithms%204th%20Ed.pdf"
     },
     {
       "id": "10",
@@ -94,7 +94,7 @@
       "author": "Mark Allen Weiss",
       "tags": ["data-structures", "C"],
       "desc": "A classic introduction to implementing and analyzing algorithms and data structures in C.",
-      "link": "https://amzn.to/3y7qkzJ"
+      "link": "https://users.dcc.uchile.cl/~voyanede/cc4102/data+Structures+and+Algorithm+Analysis+in+C+-+Mark+Allen+Weiss.pdf"
     },
     {
       "id": "11",
@@ -102,7 +102,7 @@
       "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
       "tags": ["operating-system"],
       "desc": "Known as the 'Dinosaur Book', this is the most widely used OS textbook covering processes, threads, memory, and file systems.",
-      "link": "https://amzn.to/3y3L5lS"
+      "link": "https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
     },
     {
       "id": "12",
@@ -265,35 +265,379 @@
       "platform": "edX / Harvard",
       "duration": "12 weeks",
       "difficulty": "Beginner",
-      "price": "Free(audit)",
+      "price": "Free (audit)",
       "link": "https://cs50.harvard.edu/x/"
     },
     {
-      "id": "ml",
+      "id": "6.0001",
+      "title": "Introduction to Computer Science and Programming in Python",
+      "platform": "edX / MITx",
+      "duration": "9 weeks",
+      "difficulty": "Beginner",
+      "price": "Free (audit)",
+      "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-7"
+    },
+    {
+      "id": "6.006",
+      "title": "Introduction to Algorithms",
+      "platform": "MIT OpenCourseWare",
+      "duration": "One semester",
+      "difficulty": "Intermediate",
+      "price": "Free",
+      "link": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/"
+    },
+    {
+      "id": "6.828",
+      "title": "Operating System Engineering",
+      "platform": "MIT OpenCourseWare",
+      "duration": "One semester",
+      "difficulty": "Advanced",
+      "price": "Free",
+      "link": "https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/"
+    },
+    {
+      "id": "6.033",
+      "title": "Computer System Engineering",
+      "platform": "MIT OpenCourseWare",
+      "duration": "One semester",
+      "difficulty": "Intermediate",
+      "price": "Free",
+      "link": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/"
+    },
+    {
+      "id": "6.004",
+      "title": "Computation Structures",
+      "platform": "MIT OpenCourseWare",
+      "duration": "One semester",
+      "difficulty": "Intermediate",
+      "price": "Free",
+      "link": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/"
+    },
+    {
+      "id": "algorithms1",
+      "title": "Algorithms, Part I",
+      "platform": "Coursera / Princeton",
+      "duration": "8 weeks",
+      "difficulty": "Intermediate",
+      "price": "Free to audit",
+      "link": "https://www.coursera.org/learn/algorithms-part1"
+    },
+    {
+      "id": "algorithms2",
+      "title": "Algorithms, Part II",
+      "platform": "Coursera / Princeton",
+      "duration": "8 weeks",
+      "difficulty": "Intermediate",
+      "price": "Free to audit",
+      "link": "https://www.coursera.org/learn/algorithms-part2"
+    },
+    {
+      "id": "computer-networks",
+      "title": "Computer Networking: Principles, Protocols, and Practice",
+      "platform": "Free open textbook + MOOC style",
+      "duration": "Self paced",
+      "difficulty": "Intermediate",
+      "price": "Free",
+      "link": "https://github.com/obonaventure/cnp3"
+    },
+    {
+      "id": "python-for-everybody",
+      "title": "Python for Everybody",
+      "platform": "Coursera / University of Michigan",
+      "duration": "Approx. 8 months (part time)",
+      "difficulty": "Beginner",
+      "price": "Free to audit",
+      "link": "https://www.coursera.org/specializations/python"
+    },
+    {
+      "id": "machine-learning",
       "title": "Machine Learning",
-      "platform": "Coursera (Andrew Ng)",
+      "platform": "Coursera / Stanford (Andrew Ng)",
       "duration": "11 weeks",
       "difficulty": "Intermediate",
-      "price": "Paid",
+      "price": "Free to audit",
       "link": "https://www.coursera.org/learn/machine-learning"
+    },
+    {
+      "id": "introduction-cs",
+      "title": "Introduction to Computer Science (U. London / Goldsmiths)",
+      "platform": "Coursera",
+      "duration": "9 weeks",
+      "difficulty": "Beginner",
+      "price": "Free to audit",
+      "link": "https://www.coursera.org/learn/introduction-computer-science"
+    },
+    {
+      "id": "discrete-math",
+      "title": "Introduction to Discrete Mathematics for Computer Science",
+      "platform": "Coursera / UCSD & HSE",
+      "duration": "12 weeks",
+      "difficulty": "Beginner → Intermediate",
+      "price": "Free to audit",
+      "link": "https://www.coursera.org/learn/discrete-mathematics"
+    },
+    {
+      "id": "computer-science1",
+      "title": "Computer Science: Programming with a Purpose",
+      "platform": "Coursera / Princeton",
+      "duration": "10 weeks",
+      "difficulty": "Beginner",
+      "price": "Free to audit",
+      "link": "https://www.coursera.org/learn/cs-programming-java"
+    },
+    {
+      "id": "os-basics-netacad",
+      "title": "Operating Systems Basics",
+      "platform": "Cisco Networking Academy",
+      "duration": "Self-paced / several weeks",
+      "difficulty": "Beginner",
+      "price": "Free",
+      "link": "https://www.netacad.com/courses/operating-systems-basics"
+    },
+    {
+      "id": "fundamentals-os-codecademy",
+      "title": "Fundamentals of Operating Systems",
+      "platform": "Codecademy",
+      "duration": "8 lessons",
+      "difficulty": "Beginner / Intermediate",
+      "price": "Free / freemium",
+      "link": "https://www.codecademy.com/learn/fundamentals-of-operating-systems"
+    },
+    {
+      "id": "scaler-free-os",
+      "title": "Free Operating System Course (Scaler Topics)",
+      "platform": "Scaler",
+      "duration": "Approx. 1 day 6h 44m (7 modules)",
+      "difficulty": "Beginner",
+      "price": "Free",
+      "link": "https://www.scaler.com/topics/course/free-operating-system-course/"
+    },
+    {
+      "id": "ai-architecture-delft",
+      "title": "AI in Architectural Design: Introduction",
+      "platform": "edX / Delft University of Technology",
+      "duration": "8 weeks",
+      "difficulty": "Beginner / Intermediate",
+      "price": "Free to audit",
+      "link": "https://online-learning.tudelft.nl/courses/ai-in-architectural-design/"
+    },
+    {
+      "id": "gen-ai-architecture",
+      "title": "Generative AI Architecture and Application Development",
+      "platform": "Coursera / Edureka",
+      "duration": "7 modules",
+      "difficulty": "Beginner",
+      "price": "Free to audit",
+      "link": "https://www.coursera.org/learn/generative-ai-architecture-and-application-development"
     }
   ],
 
   "youtube": [
     {
-      "id": "yt-cs50",
-      "title": "CS50 2022 - Full Course",
-      "channel": "Harvard",
+      "id": "yt-cs50-full",
+      "title": "Harvard CS50 — Full Computer Science Course",
+      "channel": "CS50",
       "link": "https://www.youtube.com/watch?v=8mAITcNt710"
     },
     {
-      "id": "yt-python",
-      "title": "Python Course - freeCodeCamp",
-      "channel": "freeCodeCamp",
-      "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+      "id": "yt-cs50-lectures",
+      "title": "CS50x 2025 Lectures (Playlist)",
+      "channel": "CS50",
+      "link": "https://www.youtube.com/watch?v=h6lqxDwUmJQ&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&index=1"
+    },
+    {
+      "id": "yt-programming-mosh",
+      "title": "Programming with Mosh",
+      "channel": "Programming with Mosh",
+      "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f"
+    },
+    {
+      "id": "yt-programming-apna-college",
+      "title": "Apna College - Full Programming Tutorials",
+      "channel": "Apna College",
+      "link": "https://www.youtube.com/watch?v=VTLCoHnyACE&list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt"
+    },
+    {
+      "id": "yt-anisul-islam",
+      "title": "Anisul Islam - Programming",
+      "channel": "Anisul Islam",
+      "link": "https://www.youtube.com/watch?v=0_8dOzwShtc&list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz"
+    },
+    {
+      "id": "yt-programming-freecodecamp",
+      "title": "freeCodeCamp.org - Programming & CS Courses",
+      "channel": "freeCodeCamp.org",
+      "link": "https://www.youtube.com/watch?v=8jLOx1hD3_o&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&index=2"
+    },
+    {
+      "id": "yt-programming-freecodecamp",
+      "title": "freeCodeCamp.org - Full Database Course for Beginners",
+      "channel": "freeCodeCamp.org",
+      "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&index=13"
+    },
+    {
+      "id": "yt-tech-with-tim",
+      "title": "Python, AI, and Web Dev Tutorials",
+      "channel": "Tech With Tim",
+      "link": "https://www.youtube.com/watch?v=XZdY15sHUa8"
+    },
+    {
+      "id": "yt-derek-banas",
+      "title": "Learn Algebra with Derek Banas",
+      "channel": "Derek Banas",
+      "link": "https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO"
+    },
+    {
+      "id": "yt-derek-banas",
+      "title": "Probability for Data Science & Machine Learning",
+      "channel": "Derek Banas",
+      "link": "https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn"
+    },
+    {
+      "id": "yt-neso-academy",
+      "title": " Discrete Mathematics",
+      "channel": "Neso Academy",
+      "link": "https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3"
+    },
+    {
+      "id": "yt-sumit-saha",
+      "title": "Learn with Sumit - Programming, Web Dev, React",
+      "channel": "Learn with Sumit",
+      "link": "https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr"
+    },
+    {
+      "id": "yt-lws-bd",
+      "title": "Learn with Sumit - LWS Bangladesh",
+      "channel": "Learn with Sumit - LWS Bangladesh",
+      "link": "https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy"
+    },
+    {
+      "id": "yt-simplilearn",
+      "title": "Simplilearn - Tech & Career Courses",
+      "channel": "Simplilearn",
+      "link": "https://www.youtube.com/watch?v=X3paOmcrTjQ&list=PLEiEAq2VkUUIEQ7ENKU5Gv0HpRDtOphC6"
+    },
+    {
+      "id": "yt-simplilearn",
+      "title": "Simplilearn - AI Courses",
+      "channel": "Simplilearn",
+      "link": "https://www.youtube.com/watch?v=ad79nYk2keg&list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq"
+    },
+    {
+      "id": "yt-programming-love-babbar",
+      "title": "Complete DSA & Placement Series",
+      "channel": "Love Babbar",
+      "link": "https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1"
+    },
+    {
+      "id": "yt-ds-william-fiset",
+      "title": "Recursion series",
+      "channel": "William Fiset",
+      "link": "https://www.youtube.com/watch?v=44TwrxjfIfo&list=PLDV1Zeh2NRsCmu1lb9grUcljeYJtmgmYc"
+    },
+    {
+      "id": "yt-algo-ds-full",
+      "title": "Algorithms & Data Structures — Full Course for Beginners",
+      "channel": "freeCodeCamp.org",
+      "link": "https://www.youtube.com/watch?v=8hly31xKli0"
+    },
+    {
+      "id": "yt-ds-algo-python",
+      "title": "Data Structures and Algorithms in Python — Full Course",
+      "channel": "freeCodeCamp.org",
+      "link": "https://www.youtube.com/watch?v=pkYVOmU3MgA"
+    },
+
+    {
+      "id": "yt-algo-crash",
+      "title": "Algorithms & Data Structures Full Crash Course",
+      "channel": "freeCodeCamp.org",
+      "link": "https://www.youtube.com/watch?v=jQqQpPMYPXs"
+    },
+    {
+      "id": "yt-binary-tree-algo",
+      "title": "Binary Tree Algorithms — Full Course",
+      "channel": "AlvinTheProgrammer",
+      "link": "https://www.youtube.com/watch?v=fAAZixBzIAI"
+    },
+    {
+      "id": "yt-os-neso",
+      "title": "Operating Systems Full Course",
+      "channel": "Neso Academy",
+      "link": "https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O"
+    },
+    {
+      "id": "yt-os-neso",
+      "title": "Computer Networks",
+      "channel": "Neso Academy",
+      "link": "https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx"
+    },
+    {
+      "id": "yt-arch-neso",
+      "title": "Computer Organization & Architecture",
+      "channel": "Neso Academy",
+      "link": "https://www.youtube.com/watch?v=Ol8D69VKX2k&list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q"
+    },
+    {
+      "id": "yt-network-gate-smashers",
+      "title": "Complete Git and GitHub Tutorial",
+      "channel": "Kunal Kushwaha",
+      "link": "https://www.youtube.com/watch?v=apGV9Kg7ics&t=1s"
+    },
+    {
+      "id": "yt-math-3blue1brown",
+      "title": "The essence of calculus",
+      "channel": "3Blue1Brown",
+      "link": "https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr"
+    },
+    {
+      "id": "yt-math-essence",
+      "title": "Essence of Linear Algebra (Series)",
+      "channel": "3Blue1Brown",
+      "link": "https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+    },
+    {
+      "id": "yt-theory-computerphile",
+      "title": "How Computer Memory Works",
+      "channel": "Computerphile",
+      "link": "https://www.youtube.com/watch?v=XETZoRYdtkw&list=PLzH6n4zXuckoxFPyhsMOYMGqyZOeN2SDJ"
+    },
+    {
+      "id": "yt-ai-freecodecamp",
+      "title": "AI & Machine Learning Full Courses",
+      "channel": "freeCodeCamp.org",
+      "link": "https://www.youtube.com/watch?v=0oyDqO8PjIg"
+    },
+    {
+      "id": "yt-ai-statquest",
+      "title": "A Gentle Introduction to Machine Learning",
+      "channel": "StatQuest with Josh Starmer",
+      "link": "https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF"
     }
   ],
+
   "platforms": [
+    {
+      "id": "p-leetcode",
+      "name": "LeetCode",
+      "type": "Practice",
+      "free": true,
+      "link": "https://leetcode.com/"
+    },
+    {
+      "id": "p-codeforces",
+      "name": "Codeforces",
+      "type": "Practice",
+      "free": true,
+      "link": "https://codeforces.com/"
+    },
+    {
+      "id": "p-hackerrank",
+      "name": "HackerRank",
+      "type": "Practice",
+      "free": true,
+      "link": "https://www.hackerrank.com/"
+    },
     {
       "id": "p-freecodecamp",
       "name": "freeCodeCamp",
@@ -302,41 +646,570 @@
       "link": "https://www.freecodecamp.org/"
     },
     {
-      "id": "p-leetcode",
-      "name": "LeetCode",
+      "id": "p-coursera",
+      "name": "Coursera",
+      "type": "Learning",
+      "free": true,
+      "link": "https://www.coursera.org/"
+    },
+    {
+      "id": "p-edx",
+      "name": "edX",
+      "type": "Learning",
+      "free": true,
+      "link": "https://www.edx.org/"
+    },
+    {
+      "id": "p-udemy",
+      "name": "Udemy",
+      "type": "Learning",
+      "free": false,
+      "link": "https://www.udemy.com/"
+    },
+    {
+      "id": "p-kaggle",
+      "name": "Kaggle",
       "type": "Practice",
       "free": true,
-      "link": "https://leetcode.com/"
+      "link": "https://www.kaggle.com/"
+    },
+    {
+      "id": "p-codechef",
+      "name": "CodeChef",
+      "type": "Practice",
+      "free": true,
+      "link": "https://www.codechef.com/"
+    },
+    {
+      "id": "p-geeksforgeeks",
+      "name": "GeeksforGeeks",
+      "type": "Learning & Practice",
+      "free": true,
+      "link": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "id": "p-w3schools",
+      "name": "W3Schools",
+      "type": "Learning",
+      "free": true,
+      "link": "https://www.w3schools.com/"
+    },
+    {
+      "id": "p-cs50",
+      "name": "CS50 Harvard",
+      "type": "Learning",
+      "free": true,
+      "link": "https://cs50.harvard.edu/x/"
+    },
+    {
+      "id": "p-mit-ocw",
+      "name": "MIT OpenCourseWare",
+      "type": "Learning",
+      "free": true,
+      "link": "https://ocw.mit.edu/"
+    },
+    {
+      "id": "p-scaler",
+      "name": "Scaler",
+      "type": "Learning",
+      "free": true,
+      "link": "https://www.scaler.com/topics/"
+    },
+    {
+      "id": "p-brilliant",
+      "name": "Brilliant.org",
+      "type": "Learning",
+      "free": false,
+      "link": "https://brilliant.org/"
+    },
+    {
+      "id": "p-khanacademy",
+      "name": "Khan Academy",
+      "type": "Learning",
+      "free": true,
+      "link": "https://www.khanacademy.org/"
+    },
+    {
+      "id": "p-programiz",
+      "name": "Programiz",
+      "type": "Learning",
+      "free": true,
+      "link": "https://www.programiz.com/"
+    },
+    {
+      "id": "p-geeksforgeeks-practice",
+      "name": "GeeksforGeeks Practice",
+      "type": "Practice",
+      "free": true,
+      "link": "https://practice.geeksforgeeks.org/"
+    },
+    {
+      "id": "p-hyperskill",
+      "name": "JetBrains Hyperskill",
+      "type": "Learning by Doing",
+      "free": false,
+      "link": "https://hyperskill.org/"
+    },
+    {
+      "id": "p-dataquest",
+      "name": "DataQuest",
+      "type": "Learning (Data Science)",
+      "free": false,
+      "link": "https://www.dataquest.io/"
+    },
+    {
+      "id": "p-topcoder",
+      "name": "TopCoder",
+      "type": "Competitive Programming",
+      "free": true,
+      "link": "https://www.topcoder.com/"
+    },
+    {
+      "id": "p-codingninjas",
+      "name": "Coding Ninjas",
+      "type": "Learning",
+      "free": false,
+      "link": "https://www.codingninjas.com/"
+    },
+    {
+      "id": "p-algoexpert",
+      "name": "AlgoExpert",
+      "type": "Learning & Practice",
+      "free": false,
+      "link": "https://www.algoexpert.io/"
+    },
+    {
+      "id": "p-hackerearth",
+      "name": "HackerEarth",
+      "type": "Practice & Challenges",
+      "free": true,
+      "link": "https://www.hackerearth.com/"
     }
   ],
   "tools": [
     {
       "id": "t-vscode",
       "name": "Visual Studio Code",
-      "desc": "Popular editor with many extensions.",
+      "desc": "Popular editor with many extensions for coding, debugging, and Git integration.",
       "link": "https://code.visualstudio.com/"
     },
     {
       "id": "t-git",
       "name": "Git & GitHub",
-      "desc": "Version control and collaboration platform.",
+      "desc": "Version control system and collaboration platform for code repositories.",
       "link": "https://github.com/"
+    },
+    {
+      "id": "t-intellij",
+      "name": "IntelliJ IDEA",
+      "desc": "Powerful IDE for Java, Kotlin, and many other languages with smart coding assistance.",
+      "link": "https://www.jetbrains.com/idea/"
+    },
+    {
+      "id": "t-pycharm",
+      "name": "PyCharm",
+      "desc": "IDE for Python development with intelligent code assistance and debugging tools.",
+      "link": "https://www.jetbrains.com/pycharm/"
+    },
+    {
+      "id": "t-sublime",
+      "name": "Sublime Text",
+      "desc": "Lightweight and fast text editor with great plugin support.",
+      "link": "https://www.sublimetext.com/"
+    },
+    {
+      "id": "t-postman",
+      "name": "Postman",
+      "desc": "API testing and collaboration platform for building and testing REST APIs.",
+      "link": "https://www.postman.com/"
+    },
+    {
+      "id": "t-docker",
+      "name": "Docker",
+      "desc": "Platform for containerizing applications for consistent environments and deployments.",
+      "link": "https://www.docker.com/"
+    },
+    {
+      "id": "t-kubernetes",
+      "name": "Kubernetes",
+      "desc": "Open-source container orchestration platform for automating deployment and scaling.",
+      "link": "https://kubernetes.io/"
+    },
+    {
+      "id": "t-vim",
+      "name": "Vim",
+      "desc": "Highly configurable command-line text editor for efficient coding and scripting.",
+      "link": "https://www.vim.org/"
+    },
+    {
+      "id": "t-figma",
+      "name": "Figma",
+      "desc": "Collaborative interface design and prototyping tool for web and app projects.",
+      "link": "https://www.figma.com/"
+    },
+    {
+      "id": "t-terminal-iterm2",
+      "name": "iTerm2",
+      "desc": "Enhanced terminal emulator for macOS with powerful features for developers.",
+      "link": "https://iterm2.com/"
+    },
+    {
+      "id": "t-bash",
+      "name": "Bash & Shell",
+      "desc": "Command-line shell and scripting environment for automating tasks.",
+      "link": "https://www.gnu.org/software/bash/"
+    },
+    {
+      "id": "t-sourcetree",
+      "name": "SourceTree",
+      "desc": "Git GUI client for easier version control and repository management.",
+      "link": "https://www.sourcetreeapp.com/"
+    },
+    {
+      "id": "t-webpack",
+      "name": "Webpack",
+      "desc": "Module bundler for JavaScript applications to optimize and manage dependencies.",
+      "link": "https://webpack.js.org/"
+    },
+    {
+      "id": "t-npm",
+      "name": "npm (Node Package Manager)",
+      "desc": "Package manager for JavaScript and Node.js to install libraries and manage dependencies.",
+      "link": "https://www.npmjs.com/"
+    },
+    {
+      "id": "t-yarn",
+      "name": "Yarn",
+      "desc": "Fast, reliable, and secure dependency management tool for JavaScript projects.",
+      "link": "https://yarnpkg.com/"
+    },
+    {
+      "id": "t-vscode-insiders",
+      "name": "VS Code Insiders",
+      "desc": "Early access version of VS Code with the latest features for developers.",
+      "link": "https://code.visualstudio.com/insiders/"
+    },
+    {
+      "id": "t-codepen",
+      "name": "CodePen",
+      "desc": "Online code editor and playground for front-end development projects.",
+      "link": "https://codepen.io/"
+    },
+    {
+      "id": "t-stackblitz",
+      "name": "StackBlitz",
+      "desc": "Online IDE for Angular, React, and other web frameworks with instant live previews.",
+      "link": "https://stackblitz.com/"
+    },
+    {
+      "id": "t-replit",
+      "name": "Replit",
+      "desc": "Online IDE and collaborative coding environment for multiple programming languages.",
+      "link": "https://replit.com/"
+    },
+    {
+      "id": "t-jupyter",
+      "name": "Jupyter Notebook",
+      "desc": "Interactive notebook for Python and data science workflows.",
+      "link": "https://jupyter.org/"
+    },
+    {
+      "id": "t-observability",
+      "name": "PostHog",
+      "desc": "Developer tool for analytics, debugging, and tracking web applications.",
+      "link": "https://posthog.com/"
+    },
+    {
+      "id": "t-insomnia",
+      "name": "Insomnia",
+      "desc": "REST API client for testing and debugging HTTP requests.",
+      "link": "https://insomnia.rest/"
+    },
+    {
+      "id": "t-vagrant",
+      "name": "Vagrant",
+      "desc": "Tool for building and managing virtualized development environments.",
+      "link": "https://www.vagrantup.com/"
+    },
+    {
+      "id": "t-cheatsh",
+      "name": "Cheat.sh",
+      "desc": "Command-line and browser-based programming cheatsheet and reference tool.",
+      "link": "https://cheat.sh/"
+    },
+    {
+      "id": "t-tilt",
+      "name": "Tilt",
+      "desc": "Local Kubernetes development and live updates for microservices apps.",
+      "link": "https://tilt.dev/"
     }
   ],
   "aiPlatforms": [
     {
       "id": "ai-chatgpt",
       "name": "ChatGPT (OpenAI)",
-      "desc": "General-purpose assistant for coding & research.",
+      "desc": "General-purpose AI assistant for coding, writing, and research with GPT models.",
       "free": true,
       "link": "https://chat.openai.com/"
     },
     {
       "id": "ai-copilot",
       "name": "GitHub Copilot",
-      "desc": "AI code completion and suggestions.",
+      "desc": "AI code completion and inline documentation tool integrated into IDEs.",
       "free": false,
       "link": "https://github.com/features/copilot"
+    },
+    {
+      "id": "ai-blackbox",
+      "name": "Blackbox AI",
+      "desc": "AI tool that helps developers search, explain, and generate code across 20+ languages.",
+      "free": true,
+      "link": "https://www.useblackbox.io/"
+    },
+    {
+      "id": "ai-claude",
+      "name": "Claude (Anthropic)",
+      "desc": "AI assistant for coding, analysis, and research with advanced reasoning ability.",
+      "free": true,
+      "link": "https://claude.ai/"
+    },
+    {
+      "id": "ai-gemini",
+      "name": "Google Gemini",
+      "desc": "AI by Google for writing, code assistance, and multi-modal research.",
+      "free": true,
+      "link": "https://gemini.google.com/"
+    },
+    {
+      "id": "ai-huggingface",
+      "name": "Hugging Face",
+      "desc": "Leading platform for open-source AI models, datasets, and ML research.",
+      "free": true,
+      "link": "https://huggingface.co/"
+    },
+    {
+      "id": "ai-perplexity",
+      "name": "Perplexity AI",
+      "desc": "AI-powered research and question-answering engine with real-time citations.",
+      "free": true,
+      "link": "https://www.perplexity.ai/"
+    },
+    {
+      "id": "ai-notion",
+      "name": "Notion AI",
+      "desc": "AI productivity assistant for summarizing, writing, and brainstorming inside Notion.",
+      "free": false,
+      "link": "https://www.notion.so/product/ai"
+    },
+    {
+      "id": "ai-kaggle",
+      "name": "Kaggle",
+      "desc": "Google's data science platform offering datasets, competitions, and notebooks.",
+      "free": true,
+      "link": "https://www.kaggle.com/"
+    },
+    {
+      "id": "ai-colab",
+      "name": "Google Colab",
+      "desc": "Free cloud notebook for Python and ML with GPU support for experiments.",
+      "free": true,
+      "link": "https://colab.research.google.com/"
+    },
+    {
+      "id": "ai-ollama",
+      "name": "Ollama",
+      "desc": "Run local open-source large language models like Llama 3 and Mistral on your PC.",
+      "free": true,
+      "link": "https://ollama.com/"
+    },
+    {
+      "id": "ai-replit",
+      "name": "Replit Ghostwriter",
+      "desc": "AI-powered code completion, debugging, and code explanation assistant.",
+      "free": false,
+      "link": "https://replit.com/"
+    },
+    {
+      "id": "ai-deepnote",
+      "name": "Deepnote",
+      "desc": "Collaborative AI-integrated notebook for data science and ML workflows.",
+      "free": true,
+      "link": "https://deepnote.com/"
+    },
+    {
+      "id": "ai-cursor",
+      "name": "Cursor AI",
+      "desc": "AI coding IDE built with GPT models that explain, edit, and generate entire codebases.",
+      "free": false,
+      "link": "https://www.cursor.sh/"
+    },
+    {
+      "id": "ai-tabnine",
+      "name": "Tabnine",
+      "desc": "AI code completion assistant that learns from your code style and patterns.",
+      "free": true,
+      "link": "https://www.tabnine.com/"
+    },
+    {
+      "id": "ai-codeium",
+      "name": "Codeium",
+      "desc": "Free AI-powered coding assistant with autocomplete and chat for multiple IDEs.",
+      "free": true,
+      "link": "https://www.codeium.com/"
+    },
+    {
+      "id": "ai-ideogram",
+      "name": "Ideogram AI",
+      "desc": "AI platform for generating creative and realistic images from text prompts.",
+      "free": true,
+      "link": "https://ideogram.ai/"
+    },
+    {
+      "id": "ai-midjourney",
+      "name": "Midjourney",
+      "desc": "AI art generation tool that creates detailed and aesthetic images via Discord.",
+      "free": false,
+      "link": "https://www.midjourney.com/"
+    },
+    {
+      "id": "ai-runwayml",
+      "name": "Runway ML",
+      "desc": "AI creative suite for video, image, and 3D content generation.",
+      "free": false,
+      "link": "https://runwayml.com/"
+    },
+    {
+      "id": "ai-deepseek",
+      "name": "DeepSeek AI",
+      "desc": "Chinese-developed LLM optimized for code generation and reasoning tasks.",
+      "free": true,
+      "link": "https://www.deepseek.com/"
+    },
+    {
+      "id": "ai-pi",
+      "name": "Pi (Inflection AI)",
+      "desc": "Personal AI companion focused on conversation, learning, and organization.",
+      "free": true,
+      "link": "https://pi.ai/"
+    },
+    {
+      "id": "ai-tensorflow",
+      "name": "TensorFlow",
+      "desc": "Open-source platform for machine learning and deep learning by Google.",
+      "free": true,
+      "link": "https://www.tensorflow.org/"
+    },
+    {
+      "id": "ai-pytorch",
+      "name": "PyTorch",
+      "desc": "Open-source deep learning framework popular for research and production.",
+      "free": true,
+      "link": "https://pytorch.org/"
+    },
+    {
+      "id": "ai-keras",
+      "name": "Keras",
+      "desc": "High-level neural networks API running on top of TensorFlow.",
+      "free": true,
+      "link": "https://keras.io/"
+    },
+    {
+      "id": "ai-openai-api",
+      "name": "OpenAI API",
+      "desc": "API for accessing GPT models for language, code, and multimodal tasks.",
+      "free": false,
+      "link": "https://platform.openai.com/"
+    },
+    {
+      "id": "ai-langchain",
+      "name": "LangChain",
+      "desc": "Framework to build applications powered by language models and LLMs.",
+      "free": true,
+      "link": "https://www.langchain.com/"
+    },
+    {
+      "id": "ai-huggingface-transformers",
+      "name": "Hugging Face Transformers",
+      "desc": "Library of state-of-the-art pretrained LLMs and NLP models.",
+      "free": true,
+      "link": "https://huggingface.co/docs/transformers/index"
+    },
+    {
+      "id": "ai-openllama",
+      "name": "OpenLLaMA",
+      "desc": "Open-source LLaMA-based language models for research and fine-tuning.",
+      "free": true,
+      "link": "https://github.com/openlm-research/open_llama"
+    },
+    {
+      "id": "ai-fastai",
+      "name": "FastAI",
+      "desc": "Simplified deep learning library built on PyTorch for rapid prototyping.",
+      "free": true,
+      "link": "https://www.fast.ai/"
+    },
+    {
+      "id": "ai-jax",
+      "name": "JAX",
+      "desc": "High-performance numerical computing library for ML research by Google.",
+      "free": true,
+      "link": "https://jax.readthedocs.io/"
+    },
+    {
+      "id": "ai-openmmlab",
+      "name": "OpenMMLab",
+      "desc": "Open-source open model zoo for computer vision tasks (detection, segmentation).",
+      "free": true,
+      "link": "https://openmmlab.com/"
+    },
+    {
+      "id": "ai-diffusers",
+      "name": "Hugging Face Diffusers",
+      "desc": "Library for diffusion models, text-to-image generation, and generative AI.",
+      "free": true,
+      "link": "https://huggingface.co/docs/diffusers/index"
+    },
+    {
+      "id": "ai-mlflow",
+      "name": "MLflow",
+      "desc": "Open-source platform for managing the ML lifecycle: experimentation, deployment, and tracking.",
+      "free": true,
+      "link": "https://mlflow.org/"
+    },
+    {
+      "id": "ai-dvc",
+      "name": "DVC (Data Version Control)",
+      "desc": "Version control for machine learning projects with dataset and model tracking.",
+      "free": true,
+      "link": "https://dvc.org/"
+    },
+    {
+      "id": "ai-streamlit",
+      "name": "Streamlit",
+      "desc": "Framework to create interactive web apps for ML models easily.",
+      "free": true,
+      "link": "https://streamlit.io/"
+    },
+    {
+      "id": "ai-gradio",
+      "name": "Gradio",
+      "desc": "Create and share ML model demos quickly with an easy-to-use interface.",
+      "free": true,
+      "link": "https://gradio.app/"
+    },
+    {
+      "id": "ai-onnx",
+      "name": "ONNX",
+      "desc": "Open Neural Network Exchange format for interoperable deep learning models.",
+      "free": true,
+      "link": "https://onnx.ai/"
+    },
+    {
+      "id": "ai-pytorch-lightning",
+      "name": "PyTorch Lightning",
+      "desc": "Lightweight PyTorch wrapper for scalable and organized deep learning research.",
+      "free": true,
+      "link": "https://www.pytorchlightning.ai/"
     }
   ],
   "career": [

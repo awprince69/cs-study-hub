@@ -135,9 +135,9 @@ export default function App() {
           />
         </section>
 
-        <section id="career" className="mt-12">
+        {/* <section id="career" className="mt-12">
           <Career items={resources.career} />
-        </section>
+        </section> */}
         <section>
           <Faq />
         </section>
