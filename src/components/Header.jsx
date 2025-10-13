@@ -36,15 +36,15 @@ export default function Header({ dark, setDark, onSearch }) {
           <a className="hover:underline" href="#tools">
             Tools
           </a>
-          <a className="hover:underline" href="#career">
+          {/* <a className="hover:underline" href="#career">
             Career
-          </a>
+          </a> */}
           <a className="hover:underline" href="#community">
             Community
           </a>
-          <a className="hover:underline" href="#updates">
+          {/* <a className="hover:underline" href="#updates">
             Updates
-          </a>
+          </a> */}
         </nav>
 
         <button className="md:hidden p-2" onClick={() => setOpen(!open)}>
@@ -110,12 +110,12 @@ export default function Header({ dark, setDark, onSearch }) {
           >
             Tools
           </a>
-          <a
+          {/* <a
             className="py-2 border-b border-gray-100 dark:border-gray-800"
             href="#career"
           >
             Career
-          </a>
+          </a> */}
           <a className="py-2" href="#community">
             Community
           </a>
